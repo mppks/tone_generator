@@ -1,0 +1,6 @@
+**/_src
+*.FCBak
+**/*-backups
+fp-info-cache
+*.kicad_*
+!*.kicad_sch
